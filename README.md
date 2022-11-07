@@ -3,6 +3,8 @@
 ## Docs
 Follow our docs here [https://react-native-community.github.io/react-native-camera/](https://react-native-community.github.io/react-native-camera/)
 
+> To run with standlone mlkit
+
 ## Sponsors
 
 If you use this library on your commercial/personal projects, you can help us by funding the work on specific issues that you choose by using IssueHunt.io!
